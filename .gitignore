@@ -1,0 +1,5 @@
+.vscode/
+ibkr-venv/
+__pycache__/
+.idea/
+META-INF/
